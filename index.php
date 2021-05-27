@@ -71,7 +71,7 @@ error_reporting(0);
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>                        
 				</button>
-				<a class="navbar-brand" href="home.html"><h3>SMKN 2 Mandau</h3></a>
+				<a class="navbar-brand" href="home.html"><h3>Sekolah Indonesia</h3></a>
 			</div>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<ul class="nav navbar-nav link-effect">
@@ -101,7 +101,7 @@ error_reporting(0);
 					
 					<li><a href="statis.html">Berita</a></li>
                     <li><a href="gallery.html">gallery</a></li>
-					<li><a href="kontak.html">Kontak</a></li>
+					<!-- <li><a href="kontak.html">Kontak</a></li> -->
 				</ul>
 				
 			</div>
