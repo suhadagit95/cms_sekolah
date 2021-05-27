@@ -12,7 +12,7 @@ $user = 'root';
 $pass = '';
  
 // isikan nama database sesuai database yang akan digunakan
-$dbname = 'smkn2_mandau';
+$dbname = 'cms_sekolah';
  
 // mengubung ke host
 
