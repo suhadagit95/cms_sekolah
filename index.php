@@ -187,7 +187,7 @@ if(file_exists('view/'.$app.'.php')){
 	</div>
 </div>
  <div class="copyrights">
-	<p>&copy; 2017 SMK N 2 Mandau </p>
+	<p>&copy; Sekolah Indonesia Jaya </p>
 </div>
 	
 
