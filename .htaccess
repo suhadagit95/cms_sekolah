@@ -1,0 +1,8 @@
+
+RewriteEngine On
+RewriteBase /SMKN2Mandau
+RewriteRule ^berita-(.*)\.html$  index.php?view=berita&id=$1 
+#RewriteRule ^laboratorium-(.*)\.html$  index.php?view=laboratorium&id=$1 
+#RewriteRule ^detail-(.*)\.html$  index.php?view=detail&id=$1 
+RewriteRule ^content-(.*)\.html$  index.php?view=content&judul_seo=$1 
+RewriteRule ^([^/.]+)\.html$ /SMKN2Mandau/index.php?view=$1 
